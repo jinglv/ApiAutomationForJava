@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testproj" parallel="false">
+    <test name="testApi">
+        <packages>
+            <package name="com.testCase"/>
+        </packages>
+    </test>
+    <listeners>
+        <listener class-name="com.api.config.ZTestReport"/>
+        <listener class-name="com.api.retry.OverrideIAnnotationTransformer" />
+    </listeners>
+</suite>
