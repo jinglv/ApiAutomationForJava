@@ -38,7 +38,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-              <folding />
+              <folding>
+                <element signature="e#338#354#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,7 +203,7 @@
             <path>
               <item name="ApiAutomationForJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ApiAutomationForJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Excel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -456,7 +458,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526788832917</updated>
       <workItem from="1526788837390" duration="2310000" />
-      <workItem from="1526797679097" duration="27622000" />
+      <workItem from="1526797679097" duration="28057000" />
     </task>
     <servers />
   </component>
@@ -493,7 +495,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29932000" />
+    <option name="totallyTimeSpent" value="30367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="717" extended-state="6" />
@@ -870,7 +872,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-          <folding />
+          <folding>
+            <element signature="e#338#354#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
